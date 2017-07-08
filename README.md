@@ -8,6 +8,10 @@ ____
 
 ![20170705 — Smooth lighting is achieved by a shader. Torch casts realistic orange colour, which is based on colourimeter measurement. You'll be seeing more things with accurate colours like this one in the future.](screenshot_01.png)
 
-Smooth lighting is achieved by a shader. Torch casts realistic orange colour, which is based on colourimeter measurement. You'll be seeing more things with life-like colours such as this one in the future.
+Smooth lighting is achieved by a shader. Torch (it's not a candle!) casts realistic orange colour, which is based on colourimeter measurement. You'll be seeing more things with life-like colours such as this one in the future.
 
-(notes — the character in dark-coloured dress is just a dummy; you won't going to see it in the actual realease)
+In the actual game, the torch flickers (gets brighter and darker) randomly, which mimics real-life fire.
+
+____
+
+(note — the character in dark-coloured dress is just a dummy; you won't going to see it in the actual realease)
