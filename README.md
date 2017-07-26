@@ -14,4 +14,9 @@ In the actual game, the torch flickers (gets brighter and darker) randomly, whic
 
 ____
 
+![20170726 — The titlescreen.](titlescreen_koKR.png)
+
+The titlescreen. This shows the main principal of the design — the minimalism. Fraps was open while taking the screenshot.
+
+____
 (note — the character in dark-coloured dress is just a dummy; you won't going to see it in the actual realease)
