@@ -20,9 +20,9 @@ The titlescreen. This shows the main principal of the design — the minimalism.
 
 ____
 
-![20170915(actually older than the titlescreen — The inventory.](inventory_peek.png)
+![20171107 — The inventory.](inventory_peek2.png)
 
-One of the proposed inventory screen. May undergo some changes. ('W' is used to close the UI; you manoeuvre with ESDF) 
+One of the proposed inventory screen. May undergo some changes. 
 
 ____
 (note — the character in dark-coloured dress is just a dummy; you won't going to see it in the actual realease)
