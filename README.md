@@ -145,3 +145,18 @@ Water now flows, thanks to [this article](https://w-shadow.com/blog/2009/09/01/s
 ### 2018-12-31
 
 Platforms are implemented. (if you don't know what platform is, go play some Terraria, it's a great game)
+
+### 2019-01-03
+
+CSV editor was made
+
+### 2019-01-04
+
+Rudimentary sprite walk cycle
+
+### 2019-01-07
+
+![20190107 — The sprite assembler.](sprite_assembler.png)
+The first output of Sprite Assembling: sprites can be assembled from bodyparts and Animation Description Language, using Skeletons and Transforms.
+
+Still have more features to be implemented, but the most crucial parts are working as intended.
