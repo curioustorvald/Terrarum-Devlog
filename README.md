@@ -160,3 +160,11 @@ Rudimentary sprite walk cycle
 The first output of Sprite Assembling: sprites can be assembled from bodyparts and Animation Description Language, using Skeletons and Transforms.
 
 Still have more features to be implemented, but the most crucial parts are working as intended.
+
+### 2019-01-15
+
+Semitransparent-texture-on-semitransparent now renders correctly (e.g. Crude Glass will no longer render "cloudy with sky blue"), thanks to the new GDX version and my improved understanding on alpha; This game now strictly uses "Premultiplied Alpha", and PSD-to-TGA conversion script is also included (dependency: ImageMagick, Windows)
+
+### 2019-01-20
+
+Game implements Gdx's missing smooth deltaTime, by applying Kalman Filter on raw deltaTime.
