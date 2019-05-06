@@ -165,6 +165,18 @@ Still have more features to be implemented, but the most crucial parts are worki
 
 Semitransparent-texture-on-semitransparent now renders correctly (e.g. Crude Glass will no longer render "cloudy with sky blue"), thanks to the new GDX version and my improved understanding on alpha; This game now strictly uses "Premultiplied Alpha", and PSD-to-TGA conversion script is also included (dependency: ImageMagick, Windows)
 
-### 2019-01-20
+### 2019-02-18
 
-Game implements Gdx's missing smooth deltaTime, by applying Kalman Filter on raw deltaTime.
+More work on the ingame BuildingMaker
+
+### 2019-03-03
+
+Pre-built tile atlas no longer needed: just make sheet for individual blocks and the game will stitch them together. Blocks can now have all available connecting variations. 47 distinct tiles to cover all 256 possible cases.
+
+### 2019-03-10
+
+First working minimap. Colour is pulled from the tile atlas. Updates every 0.5 seconds
+
+### 2019-05-04
+
+New world system to "actually" support wires. World renderer now draws wires on top of the blocks. You can select which kind of wire to draw.
