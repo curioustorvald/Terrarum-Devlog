@@ -180,3 +180,7 @@ First working minimap. Colour is pulled from the tile atlas. Updates every 0.5 s
 ### 2019-05-04
 
 New world system to "actually" support wires. World renderer now draws wires on top of the blocks. You can select which kind of wire to draw.
+
+### 2019-05-30
+
+First working implementation of Fixtures (they spawn and emit lights). Actors won't disappear when the camera wraps around.
