@@ -184,3 +184,11 @@ New world system to "actually" support wires. World renderer now draws wires on 
 ### 2019-05-30
 
 First working implementation of Fixtures (they spawn and emit lights). Actors won't disappear when the camera wraps around.
+
+### 2019-06-25
+
+Major improvements over the world accessing (pretty much most of the code depend on it) using ```sun.misc.Unsafe```, formely a 60 fps game now runs 100 fps.
+
+### 2019-06-25
+
+Fallable blocks (e.g. sands) now falls, scaffoldings doesn't get "supports" as the feature is TODO.
