@@ -192,3 +192,7 @@ Major improvements over the world accessing (pretty much most of the code depend
 ### 2019-06-25
 
 Fallable blocks (e.g. sands) now falls, scaffoldings doesn't get "supports" as the feature is TODO.
+
+### 2019-08-13
+
+The camera will zoom-in/out when you hit the 'Z' key
