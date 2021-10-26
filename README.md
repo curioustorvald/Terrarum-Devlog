@@ -196,3 +196,56 @@ Fallable blocks (e.g. sands) now falls, scaffoldings doesn't get "supports" as t
 ### 2019-08-13
 
 The camera will zoom-in/out when you hit the 'Z' key
+
+### 2019-08-15
+
+Implementation of the "air jumping"
+
+### 2019-11-27
+
+World generation now runs multithreaded
+
+### 2020-02-24
+
+[![.](https://img.youtube.com/vi/k1y3cRy7feU/0.jpg)](https://www.youtube.com/watch?v=k1y3cRy7feU)
+Torches now flicker randomly
+
+### 2020-11-10
+
+Faster light simulation
+
+### 2020-11-21
+
+Finally fixing the long-existing bug where certain window size may crash the game
+
+### 2021-02-25
+
+Block/Item/etc. IDs are now strings instead of integers
+
+### 2021-07-27
+
+Moved to GDX 1.10/LWJGL 3
+
+### 2021-07-28
+
+![.](Screenshot_20210728_215435.png)
+Layer between wall and terrain now has a shadow
+
+### 2021-08-18
+
+![.](Screenshot_20210813_142413.png)
+Signal wires
+
+### 2021-08-20
+
+[![.](https://img.youtube.com/vi/ouabzMAeXJU/0.jpg)](https://www.youtube.com/watch?v=ouabzMAeXJU)
+Actors will climb gradual slope as a staircase if they are tall enough
+
+### 2021-10-14
+
+Save and load using the proprietary archival format
+
+### 2021-10-23
+
+![.](FCWaCLdUUAMMBXz.jpg)
+Multilingual input IME
