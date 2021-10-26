@@ -157,6 +157,7 @@ Rudimentary sprite walk cycle
 ### 2019-01-07
 
 ![20190107 — The sprite assembler.](sprite_assembler.png)
+
 The first output of Sprite Assembling: sprites can be assembled from bodyparts and Animation Description Language, using Skeletons and Transforms.
 
 Still have more features to be implemented, but the most crucial parts are working as intended.
@@ -208,6 +209,7 @@ World generation now runs multithreaded
 ### 2020-02-24
 
 [![.](https://img.youtube.com/vi/k1y3cRy7feU/0.jpg)](https://www.youtube.com/watch?v=k1y3cRy7feU)
+
 Torches now flicker randomly
 
 ### 2020-11-10
@@ -229,16 +231,19 @@ Moved to GDX 1.10/LWJGL 3
 ### 2021-07-28
 
 ![.](Screenshot_20210728_215435.png)
+
 Layer between wall and terrain now has a shadow
 
 ### 2021-08-18
 
 ![.](Screenshot_20210813_142413.png)
+
 Signal wires
 
 ### 2021-08-20
 
 [![.](https://img.youtube.com/vi/ouabzMAeXJU/0.jpg)](https://www.youtube.com/watch?v=ouabzMAeXJU)
+
 Actors will climb gradual slope as a staircase if they are tall enough
 
 ### 2021-10-14
@@ -248,4 +253,5 @@ Save and load using the proprietary archival format
 ### 2021-10-23
 
 ![.](FCWaCLdUUAMMBXz.jpg)
+
 Multilingual input IME
