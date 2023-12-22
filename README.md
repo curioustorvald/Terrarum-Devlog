@@ -260,7 +260,7 @@ Added various keyboard layouts/IMEs
 
 ### 2021-12-22
 
-Minimap is added
+Player/Actor head is added to the minimap to indicate where they are
 
 ### 2022-01-24
 
