@@ -1,8 +1,6 @@
 # Terrarum
 
-The project is hosted on [GitLab](https://gitlab.com/minjaesong/terrarum). It hit the LFS size of the GitHub and I don't know how to reduce it...
-
-...so, instead of actual code on this repo, here's some screenshots:
+The project is hosted on [This repository](https://github.com/curioustorvald/Terrarum), this repo is just a loose recording of the development progress.
 
 ____
 
@@ -226,7 +224,7 @@ Block/Item/etc. IDs are now strings instead of integers
 
 ### 2021-07-27
 
-Moved to GDX 1.10/LWJGL 3
+LibGDX upgraded to 1.10/LWJGL 3
 
 ### 2021-07-28
 
@@ -255,3 +253,225 @@ Save and load using the proprietary archival format
 ![.](FCWaCLdUUAMMBXz.jpg)
 
 Multilingual input IME
+
+### 2021-11-17
+
+Added various keyboard layouts/IMEs
+
+### 2021-12-22
+
+Minimap is added
+
+### 2022-01-24
+
+Terrarum 0.3 is released
+
+### 2022-02-03
+
+![.](light_withblur.png)
+
+Dual Kawase blur for lightmap
+
+### 2022-02-10
+
+Terrarum 0.3.1 is released
+
+### 2022-02-24
+
+![.](FMWX3ubVQAEOnU4.jpg)
+
+Actors can block the light
+
+### 2022-03-10
+
+Crafting system is added
+
+### 2022-06-13
+
+Press 'Z' to zoom in/out added
+
+### 2022-06-29
+
+![.](FWaFLq7akAEZU42.jpg)
+
+The crafting UI
+
+### 2022-07-13
+
+![.](FXjAcTYaIAAE1sW.jpg)
+
+Player can direct the wire connection whereever they want
+
+### 2022-07-28
+
+![.](FYwoFMcacAAoBE0.jpg)
+
+Doors are added
+
+### 2022-09-11
+
+![.](https://video.twimg.com/tweet_video/FcXlUwtaMAAOgoP.mp4)
+
+Doors now block lights when closed
+
+### 2022-10-15
+
+Rudimentary FPS benchmarking is added
+
+### 2022-12-29
+
+LibGDX upgraded to 1.11
+
+### 2023-02-28
+
+Updated the shaders to meet OpenGL 3.2 standard
+
+### 2023-04-12
+
+BlockStats is upgraded to TileSurvey
+
+### 2023-05-28
+
+A world portal that allows the player to venture into the multiverse
+
+### 2023-06-06
+
+A new format for item spritesheet
+
+### 2023-06-22
+
+A headless bootstrapper now handles the launching of the game, with user-defineable max JVM heap size and JVM arguments
+
+### 2023-07-05
+
+completely rewritten avatar and world loading UI with rename and delete
+
+### 2023-07-21
+
+![.](Screenshot_20230721_202145.png)
+
+Bilinear and Hq2x filtering mode
+
+### 2023-08-02
+
+![.](Screenshot-1690970042656.png)
+
+First stars on the night sky
+
+### 2023-08-05
+
+Terrarum 0.3.2 is released
+
+### 2023-08-21
+
+![.](Screenshot-1692629666414.png)
+
+First clouds on the sky
+
+### 2023-08-30
+
+True weather system is added
+
+### 2023-09-06
+
+![.](Screenshot-1693927747990.png)
+
+Sledgehammers are added
+
+### 2023-09-07
+
+![.](Screenshot_20230907_121013.png)
+
+Six ecological seasons are implemented for grass textures
+
+### 2023-09-16
+
+![.](Screenshot-1694836434217.png)
+
+Fast random grass spreading simulation
+
+### 2023-09-20
+
+A workbench, the first fixture with a Crafting Station attribute, is added
+
+### 2023-10-03
+
+![.](Screenshot-1696329852358_2.png)
+
+Can throw an holding item
+
+### 2023-10-05
+
+LibGDX upgraded to 1.12
+
+### 2023-10-06
+
+![.](terrarum_0.3.3_day_night_cycle.jpg)
+
+Terrarum 0.3.3 is released with a completely re-worked skybox model
+
+### 2023-10-10
+
+![.](Screenshot-1696936085940.png)
+
+The ore layer is added
+
+### 2023-10-14
+
+![.](Screenshot-1697288319601.png)
+
+Particle effects are added
+
+### 2023-10-23
+
+![.](Screenshot_20231023_225722.png)
+
+A POI editor is added
+
+### 2023-11-04
+
+![.](Screenshot-1699086647328.png)
+
+Tiles are randomly rotated and flipped
+
+### 2023-11-06
+
+![.](Screenshot-1699278280447.png)
+
+More ores are added
+
+### 2023-11-13
+
+Trees are spawned on worldgen
+
+### 2023-11-25
+
+![.](Screenshot-1700048111114.png)
+
+Marble veins are added
+
+### 2023-11-29
+
+![.](Screenshot-1701184076673.png)
+
+The custom audio engine is fully implemented
+
+### 2023-12-01
+
+Footstep and block breaking sound effects are added
+
+### 2023-12-14
+
+Audio resampler is added
+
+### 2023-12-12
+
+![.](Screenshot-1702057524717.png)
+
+Snapshot 23w49a is released
+
+### 2023-12-22
+
+![.](Screenshot_20231222_001039_2.png)
+
+Compression methods for chunks in the savegame can be chosen by the user, Zstd and Snappy is available, deprecating Gzip
