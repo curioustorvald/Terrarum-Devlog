@@ -284,6 +284,8 @@ Actors can block the light
 
 ### 2022-03-10
 
+![.](Screenshot_20231222_172106.png)
+
 Crafting system is added
 
 ### 2022-06-13
@@ -294,7 +296,7 @@ Press 'Z' to zoom in/out added
 
 ![.](FWaFLq7akAEZU42.jpg)
 
-The crafting UI
+The reworked crafting UI
 
 ### 2022-07-13
 
