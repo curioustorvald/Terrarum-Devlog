@@ -477,3 +477,31 @@ Snapshot 23w49a is released
 ![.](Screenshot_20231222_001039_2.png)
 
 Compression methods for chunks in the savegame can be chosen by the user, Zstd and Snappy is available, deprecating Gzip
+
+### 2024-01-11
+
+Dynamic Source of the audio now tracks the player that changes panning and the lowpass.
+
+### 2024-01-16
+
+Audio engine has reworked so that changing buffer size would not require the game restart
+
+### 2024-01-18
+
+Chunks are only generated near the player
+
+### 2024-01-23
+
+Ambient sounds and codes to playing them has been added
+
+### 2024-01-27
+
+![.](Screenshot-1706293178179.png)
+
+Emissive layer on the sprites. They will glow regardless of the ambient lighting.
+
+### 2024-02-02
+
+![.](Screenshot-1706800998033.png)
+
+New smelter UI is finally working
