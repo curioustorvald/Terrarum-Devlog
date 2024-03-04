@@ -505,3 +505,24 @@ Emissive layer on the sprites. They will glow regardless of the ambient lighting
 ![.](Screenshot-1706800998033.png)
 
 New smelter UI is finally working
+
+### 2024-02-14
+
+![.](Screenshot-1707932669060.png)
+
+Explosives!
+
+### 2024-02-19
+
+Terrarum 0.4.0 is released
+
+### 2024-03-03
+
+Terrarum 0.4.1 is released
+
+### 2024-03-04
+
+![.](circuits_1.png)
+![.](circuits_2.png)
+
+[Verum-Nimply Logic](https://curioustorvald.github.io/techtales/?a=general_202312190308_verum_nimply_logic) and construction of logic gates
